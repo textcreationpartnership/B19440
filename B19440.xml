@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation concerning the adjournment of Michaelmas term.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19440</idno><idno type="EEBO-CITATION">99886833</idno>
+  <idno type="VID">192504</idno>
+  <idno type="EEBO-PROQUEST">2240885022</idno>
+  
+            <idno type="STC">Wing C3261</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[35]</idno>
+            <idno type="STC">ESTC R226654</idno>
+            <idno type="PROQUEST">ocm99886833</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886833e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192504)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C9:3[169])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation concerning the adjournment of Michaelmas term.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Bill and Christopher Barker, printers to the Kings most Excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at Oxford the six and twentieth day of September, in the seventeenth year of his Majesties reign".</note>
+                  <note>Steele notation: which Michaelis 2) concern, will; Arms 74.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Plague --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192504:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <byline>By the King.</byline>
+            <head>A PROCLAMATION Concerning the Adjournment of <hi>Michaelmas</hi> Term.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He King our Soveraign Lord considering the great and general Infection of the Plague, which at this present is in the Cities of <hi>London</hi> and <hi>Westminster,</hi> &amp; other places near adjoyning, and how perillous it might be to His loving Subjects if they should be inforced to repair thither for their Suits and Causes, before such time as it shall please Almighty God of his goodness and mercy to remove or cease that heavy Visitation; His Majesty therefore of His special Grace and Favour to His people, and for their better Safety and Preservation, is pleased to adjourn part of this Term of St. <hi>Michael</hi> now next coming; (That is to say) in and from the first Return thereof, called <hi>Tres Michaelis,</hi> unto the fifth Return of the same Term, called <hi>Octabis Sancti Martini,</hi> from <hi>Westminster</hi> to <hi>Oxford</hi> in the County of <hi>Oxford,</hi> and there to be held and continued for the residue of the said Term: which His Maje<g ref="char:EOLhyphen"/>sty signifieth to all His loving Subjects of this Realm, to the intent they which have Cause or Commandment to ap<g ref="char:EOLhyphen"/>pear in any of His Highness Courts at <hi>Westminster,</hi> in, or at any day or time in or after the said <hi>Tres Michaelis,</hi> may tarry at their dwellings, or where their business otherwise shall lie, without resorting to any of the said Courts for that cause, before the said <hi>Octabis Sancti Martini</hi> next coming, and that without danger of forfeiture, penalty, or contempt to incur to<g ref="char:EOLhyphen"/>wards His Majesty in that behalf. And nevertheless His Majesties Pleasure is, That according to the ancient Order of the Laws, the Essoynes of the said <hi>Tres Michaelis</hi> shall be kept; at which time Writs of Adjournment (which His Majesty commandeth the Lord High Chancellour of <hi>England</hi> to make forth) shall be directed to the Iustices of either Bench, and to the Iudges of all other His Majesties Courts, to whom like Writs have been usually directed, giving them power to Adjourn the next <hi>Michaelmas Term,</hi> in and from <hi>Tres Michaelis</hi> unto the said Fifth Return as aforesaid. And the said Adjournment to be made in the First day of the said <hi>Tres Michaelis,</hi> commonly called the day of Essoynes. And His Majesty doth hereby declare His further Will and Pleasure to be, That in the said Term there shall be no Tri<g ref="char:EOLhyphen"/>als by Iuries, or any Iudgement upon Demurrers, or Special Verdicts in any of His Courts of <hi>Kings Bench, Common Pleas,</hi> or <hi>Exchequer.</hi> And that all Matters, Causes, and Suits depending between party and party in His other Courts of <hi>Chancery, Exchequer-Chambers,</hi> or <hi>Dutchy</hi> of <hi>Lancaster,</hi> shall have continuance, and the parties shall have day from the Date of these Presents, until the said Fifth Return as aforesaid. And also, That there shall be no Iudicial Hearings, or determining of any causes, or matters in any of the said Courts of <hi>Chancery, Exchequer-Chambers,</hi> or <hi>Dutchy</hi> of <hi>Lancaster,</hi> during the said Term. And His Majesty doth hereby also further Declare, That no party shall be compelled, or need to appear in person in any of His Majesties said Courts, at any time during the said Term, but may make their appearance by their Attorneys (saving only in Cases of Outlawry) And that no Iuries, or any whom the same may concern, shall be compelled, or need to appear in any of His Majesties said Courts, at any time during the said Term, for any Cause or Matter whatsoever, unless it be for some special and important Cause for his Majesties service only. And whereas His Majesty having removed the Receipt of His <hi>Exchequer,</hi> together with the <hi>Tally-Office,</hi> and all things thereunto belonging, from <hi>Westminster</hi> to His Honour of <hi>Nonsuch</hi> in the County of <hi>Surrey,</hi> did by His Proclamation of the 26th of <hi>July</hi> last, direct all Sheriffs, Bayliffs, Collectors, and other Officers, Accomptants, and persons whatsoever, who were to pay in any Moneys into the said Receipt, or otherwise to attend the same, to keep their days and times at <hi>Nonsuch</hi> aforesaid, and there to pay and perform in all things as they should or ought to have done at <hi>Westminster,</hi> until His Majesty should declare his Pleasure to the contrary. Now His Majesties pleasure is, and he doth hereby direct and command, That His said Receipt of <hi>Exchequer,</hi> together with the <hi>
+                  <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ally-Office,</hi> and all things thereunto belonging, shall be continued and kept at <hi>Nonsuch</hi> aforesaid, until His Majesty shall declare His further Pleasure to the contrary; whither all persons whom the same doth concern, may take notice to repair upon all occasions, for, or concerning the bringing in, or issuing out of His Majesties Treasure at the Receipt of His <hi>Exchequer.</hi> Provided, and His Majesty com<g ref="char:EOLhyphen"/>mands all Collectors, Receivors, Sheriffs, and other Accomptants, and all other persons that should or ought to Accompt in any of His Majesties Courts of <hi>Exchequer,</hi> or <hi>Dutchy</hi> of <hi>Lancaster,</hi> or to enter into any Accompt in either of the said Courts, or otherwise to attend the same, to repair unto <hi>Oxford</hi> at the time aforesaid, and there to Accompt, and to perform in all things touching their Accompts, as though no such Proclamation or Adjournment had been had or made. And His Majesties further Pleasure &amp; Commandment is, That if any person or persons who ought to Accompt or Pay any sum or sums of money to His Majesty in any of the Courts &amp; Places aforesaid, do make default therein, then his Highness Writs and Process shall be awarded, and sent forth against every such person and persons; and the same to be duly and orderly served and returned by the Sheriffs and Officers thereunto appointed, in such like manner and form as the same should have been if this or the said former Proclamation had not been made. And if any Sheriff, or other Officer shall make default, or be negligent in Serving Executing or Returning of any of the Writs and Pro<g ref="char:EOLhyphen"/>cesses aforesaid. That then every such Sheriff and other Officer shall incur such pains and penalties, as by the said Courts or any of them shall be Taxed and Assessed. Willing and Commanding all and every His Majesties She<g ref="char:EOLhyphen"/>riffs, Officers Ministers and Subjects to whom it doth or shall appertain, to observe and keep their Assemblies and Appearances with all their Returns and Certificates, in his Highness said Court at <hi>Oxford,</hi> in <hi>Octàbis Sancti Martini</hi> next coming, then and there to be holden and kept, and there to do their Offices and Duties in every behalf, in like man<g ref="char:EOLhyphen"/>ner and form, as they should or ought to have done if this present Proclamation had not been had or made, as they will answer to the contrary at their perils.</p>
+            <closer>
+               <dateline>Given at <hi>Oxford</hi>
+                  <date>the Six and twentieth day of <hi>September,</hi> in the Seventeenth year of His Majesties Reign.</date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the Kings most Excellent Majesty, 1665.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
